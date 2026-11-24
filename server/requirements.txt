@@ -1,0 +1,21 @@
+# Installed after PyTorch 2.0.1 (cu118); see install.bat.
+numpy==1.26.0
+transformers==4.39.2
+huggingface_hub==0.30.2
+opencv-python==4.9.0.80
+librosa==0.11.0
+omegaconf==2.3.0
+timm==1.0.9
+albumentations==2.0.8
+av==12.0.0
+pandas==2.3.3
+matplotlib
+pyyaml
+face-alignment
+gdown
+fastapi
+uvicorn[standard]
+websockets
+httpx
+silero-vad
+piper-tts==1.8.0

@@ -1,0 +1,7 @@
+# Installed after PyTorch 2.7.1 (cu128) and SoulX-FlashHead's own requirements; see install.bat.
+fastapi
+uvicorn[standard]
+websockets
+httpx
+silero-vad
+piper-tts==1.8.0
